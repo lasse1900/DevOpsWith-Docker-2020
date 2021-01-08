@@ -1,0 +1,11 @@
+ubuntu 20.4
+
+REPOSITORY       TAG       IMAGE ID       CREATED              SIZE
+frontend-image   latest    021ee3ee1b1d   About a minute ago   433MB
+backend-image    latest    cd664c279588   33 minutes ago       239MB
+
+after some optimization, node:Alpine
+
+REPOSITORY       TAG       IMAGE ID       CREATED         SIZE
+frontend-image   latest    13715408e870   3 minutes ago   375MB
+backend-image    latest    b12e6277e55c   4 minutes ago   215MB
